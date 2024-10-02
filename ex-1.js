@@ -6,10 +6,10 @@ let fourthColor;
 let fifthColor;
 let tenthColor;
 
-blueColor = colors[2];
-fourthColor = colors[3];
-fifthColor = colors[4];
-tenthColor = colors[9];
+blueColor = colors[3];
+fourthColor = colors[4];
+fifthColor = colors[5];
+tenthColor = colors[10];
 
 console.log(blueColor);
 console.log(fourthColor);
